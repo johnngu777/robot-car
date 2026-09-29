@@ -1,0 +1,9 @@
+# PlatformIO
+esp32/.pio/
+esp32/.vscode/
+
+# MaixVision / general
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
